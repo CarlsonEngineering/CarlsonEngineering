@@ -1,6 +1,6 @@
 - Welcome to the GitHub account of Carlson Engineering Inc.
 - We are an automation company based out of Fort Worth, TX, USA
-- Currently all the repositories on this account are posted by Atul Shrotriya who also manages the account.
+- Currently all the repositories on this account are posted by Atul Shrotriya who also manages the account
 
 
 <!---
